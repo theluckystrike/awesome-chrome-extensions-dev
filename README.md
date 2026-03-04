@@ -1,5 +1,10 @@
 # Awesome Chrome Extension Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/badge/Discord-Zovo-blueviolet.svg?logo=discord)](https://discord.gg/zovo)
+[![Website](https://img.shields.io/badge/Website-zovo.one-blue)](https://zovo.one)
+[![GitHub Stars](https://img.shields.io/github/stars/theluckystrike/awesome-chrome-extensions-dev?style=social)](https://github.com/theluckystrike/awesome-chrome-extensions-dev)
+
 > A curated list of tools, libraries, frameworks, and resources for building Chrome extensions.
 
 **Maintained by [Zovo](https://zovo.one)** -- makers of 18+ Chrome extensions. Contributions welcome!
@@ -120,6 +125,15 @@
 - [r/chrome_extensions](https://www.reddit.com/r/chrome_extensions/) -- Reddit community for Chrome extension developers.
 - [Chrome Extension Dev Discord](https://discord.gg/ext) -- Discord community.
 
+## Chrome Web Store Extensions
+
+Check out these popular Chrome extensions built by Zovo developers:
+
+- [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
+- [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
+- [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
+- [Zovo Cookie Manager](https://chrome.google.com/webstore/detail/zovo-cookie-manager) - Advanced cookie management
+
 ---
 
 ## Contributing
@@ -131,9 +145,22 @@ Requirements for submissions:
 - Must be relevant to Chrome/browser extension development
 - Add entries in alphabetical order within their category
 
+## Built by Zovo
+
+Part of the [Zovo](https://zovo.one) developer tools family — privacy-first Chrome extensions built by developers, for developers.
+
+## See Also
+
+### Related Zovo Repositories
+
+- [zovo-extension-template](https://github.com/theluckystrike/zovo-extension-template) - Boilerplate for building privacy-first Chrome extensions
+- [zovo-types-webext](https://github.com/theluckystrike/zovo-types-webext) - Comprehensive TypeScript type definitions for browser extensions
+- [chrome-storage-plus](https://github.com/theluckystrike/chrome-storage-plus) - Type-safe storage wrapper
+- [webext-bridge](https://github.com/theluckystrike/webext-bridge) - Cross-context messaging
+
 ## License
 
-MIT -- [Zovo](https://zovo.one)
+MIT — [Zovo](https://zovo.one)
 
 ---
 
