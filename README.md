@@ -164,11 +164,24 @@ MIT — [Zovo](https://zovo.one)
 
 ---
 
+## See Also
+
+### Related Zovo Repositories
+
+- [chrome-extension-starter-mv3](https://github.com/theluckystrike/chrome-extension-starter-mv3) - Production-ready extension template
+- [chrome-storage-plus](https://github.com/theluckystrike/chrome-storage-plus) - Type-safe storage wrapper
+- [crx-manifest-validator](https://github.com/theluckystrike/crx-manifest-validator) - Manifest validation
+- [crx-permission-analyzer](https://github.com/theluckystrike/crx-permission-analyzer) - Permission analysis
+- [extension-analytics](https://github.com/theluckystrike/extension-analytics) - Privacy-first analytics
+
 ### Zovo Chrome Extensions
 
 - [Zovo Tab Manager](https://chrome.google.com/webstore/detail/zovo-tab-manager) - Manage tabs efficiently
 - [Zovo Focus](https://chrome.google.com/webstore/detail/zovo-focus) - Block distractions
 - [Zovo Permissions Scanner](https://chrome.google.com/webstore/detail/zovo-permissions-scanner) - Check extension privacy grades
-- [Zovo Cookie Manager](https://chrome.google.com/webstore/detail/zovo-cookie-manager) - Advanced cookie management
 
 Visit [zovo.one](https://zovo.one) for more information.
+
+---
+
+*Built by developers, for developers. No compromises on privacy.*
